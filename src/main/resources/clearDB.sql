@@ -8,3 +8,4 @@ DROP  TABLE IF EXISTS customers;
 DROP  TABLE IF EXISTS companies;
 DROP  VIEW IF EXISTS project_outlays;
 DROP  VIEW IF EXISTS company_benefits;
+DROP  VIEW IF EXISTS company_project_benefits;
